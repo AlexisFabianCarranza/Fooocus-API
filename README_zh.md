@@ -120,7 +120,7 @@ source venv/bin/activate
 这里是一个启动必须下载的模型列表 (也可能不一样如果 [启动参数](#命令行参数) 不同的话):
 
 - checkpoint: 放到 `repositories\Fooocus\models\checkpoints`
-    + [juggernautXL_v8Rundiffusion.safetensors](https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors)
+    + [juggernautXL_juggXRundiffusion.safetensors](https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_juggXRundiffusion.safetensors)
 
 - vae_approx: 放到 `repositories\Fooocus\models\vae_approx`
     + [xlvaeapp.pth](https://huggingface.co/lllyasviel/misc/resolve/main/xlvaeapp.pth)
